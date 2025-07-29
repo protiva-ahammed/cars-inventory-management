@@ -1,0 +1,35 @@
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET temporary files
+*.vspscc
+*.vssscc
+
+# Logs
+*.log
+
+# Auto-generated files
+*.cache
+*.db
+*.pid
+
+# Optional: Ignore CSV if temp
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
